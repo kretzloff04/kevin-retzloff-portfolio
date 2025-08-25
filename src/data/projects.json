@@ -1,0 +1,26 @@
+[
+    {
+        "name" : "Rider Report",
+        "image" : "riderReportLogo",
+        "techStack" : "Swift | Firebase | Figma",
+        "link" : "https://apps.apple.com/us/app/rider-report-a-cta-train-app/id6738873627",
+        "dates" : "October 2024 - December 2024",
+        "description" : "Rider Report is a group project created during my involvement in the Everyone Can Code Chicago App Accelerator Program. The app is made for Chicago CTA train users to report issues/crimes with/on CTA trains to promote increased change and investment in the city's public transit system."
+    },
+    {
+        "name" : "EnSub",
+        "image" : "n/a",
+        "techStack" : "Python | Gmail API",
+        "link" : "https://github.com/kretzloff04/EnSub",
+        "dates" : "December 2024 - January 2025",
+        "description" : "EnSub is a terminal-based application that is meant to create a more efficient way of managing a Gmail inbox. "
+    },
+    {
+        "name" : "This Portfolio",
+        "image" : "n/a",
+        "techStack" : "HTML | TailwindCSS | JavaScript | React",
+        "link" : "https://github.com/kretzloff04",
+        "dates" : "June 2025 - Present",
+        "description" : ""
+    }
+]

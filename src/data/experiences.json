@@ -1,0 +1,24 @@
+[
+    {
+        "id": "1",
+        "position": "iOS Development Teacher's Assistant",
+        "type": "Part-Time",
+        "description": "Everyone Can Code Chicago is a summer employment opportunity for Chicago teenagers to learn the basics of iOS development and entrepreneurship.",
+        "location": "Chicago, IL",
+        "company": "Everyone Can Code Chicago",
+        "dates": "June 2025 - August 2025",
+        "image": "ECCLogo.png",
+        "link" : "https://www.eccchicago.org/"
+    },
+    {
+        "id": "2",
+        "position": "iOS Software Engineer Intern",
+        "type": "Internship",
+        "description": "gravity is a dating app that was created to match users with friends of friends, ensuring that each potential match is more meaningful than any given person on a dating app.",
+        "location": "Remote",
+        "company": "gravity",
+        "dates": "December 2024 - February 2025",
+        "image": "gravityLogo.jpeg",
+        "link" : "https://dategravity.com/"
+    }
+  ]

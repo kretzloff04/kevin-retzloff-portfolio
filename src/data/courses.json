@@ -1,0 +1,45 @@
+[
+    {
+        "id" : 1,
+        "name" : "CSCI 1133 - Introduction to Computing and Programming Concepts",
+        "language" : "Python",
+        "description" : ""
+    
+    },
+    {
+        "id" : 2,
+        "name" : "CSCI 1933 - Introduction to Data Structures and Algorithms",
+        "language" : "Java",
+        "description" : ""
+    
+    },
+        {
+        "id" : 3,
+        "name" : "CSCI 2011 - Discrete Structures",
+        "language" : "N/A",
+        "description" : ""
+    
+    },
+        {
+        "id" : 4,
+        "name" : "CSCI 2021 - Machine Architecture and Organization",
+        "language" : "C",
+        "description" : ""
+    
+    },
+        {
+        "id" : 5,
+        "name" : "CSCI 2033 - Linear Algebra",
+        "language" : "Python - NumPy",
+        "description" : ""
+    
+    },
+        {
+        "id" : 6,
+        "name" : "CSCI 2041 - Advanced Programming Principles",
+        "language" : "OCaml",
+        "description" : ""
+    
+    }
+
+]
